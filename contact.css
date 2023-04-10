@@ -32,6 +32,9 @@ width: 60vw;
 gap:20px;
 margin: 100px 0;
 }
+.mid-container p {
+text-align: center;
+}
 
 form{
 display: flex;
@@ -46,6 +49,15 @@ background-color: rgba(255,255,255,0);
 border-style: none;
 border-bottom: white solid 2px;
 }
+.areatext{
+background-color: rgba(255, 255, 255, 0);
+border-style: none;
+border-bottom: white solid 2px;
+display: flex;
+       
+}
+
+
 ::placeholder{
 color: white;
 }
@@ -62,7 +74,7 @@ html{
 font-size: 10px;
 }}
 
-        /* bootstrap */
+/* bootstrap */
 
 .line{
 border-bottom: 10px solid #741b47;
