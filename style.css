@@ -100,7 +100,7 @@
 
 .about-me img:hover {
     border: #741b47 1em solid;
-    transform: scale(1.2);
+    transform: scale(1.1);
     margin-bottom: 20px;
 }
 
