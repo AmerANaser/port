@@ -16,7 +16,7 @@
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(8228.png) no-repeat;
+    background: url(../images/8228.png) no-repeat;
     background-size: cover;
     background-position: center;
     background-position: center;
@@ -132,7 +132,7 @@
 }
 
 .mid {
-    background-image: url(63340.png);
+    background-image: url(../images/63340.png);
     width: 100vw;
     text-align: center;
     padding: 50px 0;
